@@ -105,3 +105,23 @@
     margin-right: 200px;
     padding: 70px 100px 30px;
 }
+
+
+/* Sign Up */
+.sign-up{
+    display: flex;
+    padding-left: 200px ;
+    padding-right: 200px ;
+    text-align: center;
+    justify-content: space-between;
+    background-color: #edd2d8;
+    margin-top: 100px;
+}
+
+.sign-up .span{
+    color:#E55475;
+}
+
+.deal-heading{
+    margin-top: 160px;
+}
