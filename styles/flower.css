@@ -4,6 +4,35 @@
 
 .banner-section {
     display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
 }
 
 
+.banner-heading{
+    font-family:'Open Sans';
+    font-size: 50px;
+    margin-top: 90px;
+
+}
+
+.banner-description{
+    font-family:'regular';
+    font-size: 20px;
+    color: #272727;
+}
+
+.banner-image{
+    height: 700px;
+    width: 550px;
+}
+
+.btn-primary {
+    color: #FFFFFF;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    border-radius: 5px;
+    background: #E55475;
+}
