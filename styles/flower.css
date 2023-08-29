@@ -125,9 +125,16 @@
     color: #E55475;
 }
 
-/* .sign-up .span {
-    color: #E55475;
-} */
+.feedback{
+    background-color: #f5edef;
+    text-align: center;
+    font-family: 'regular';
+    font-size: 20px;
+    margin: 100px 150px 150px;
+    border-radius: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
 
 .deal-heading {
     margin-top: 160px;
