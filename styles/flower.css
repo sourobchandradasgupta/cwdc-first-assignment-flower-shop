@@ -125,3 +125,36 @@
 .deal-heading{
     margin-top: 160px;
 }
+
+
+/* Instagram section */
+.insta-flower{
+    display: flex;
+    gap: 10px;
+    
+    padding-left: 150px ;
+    padding-right: 150px ;
+
+}
+ #insta-1{
+    height: 300px;
+    width: 250px;
+ }
+ #insta-2{
+    height: 300px;
+    width: 250px;
+ }
+ #insta-3{
+    height: 300px;
+    width: 250px;
+ }
+ #insta-4{
+    height: 300px;
+    width: 250px;
+ }
+
+ .insta-heading{
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 30px;
+ }
